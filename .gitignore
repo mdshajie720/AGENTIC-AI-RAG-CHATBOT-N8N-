@@ -1,0 +1,12 @@
+# OS/system files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Node modules / environments
+node_modules/
+.env
+*.log
+
+# VS Code settings
+.vscode/
